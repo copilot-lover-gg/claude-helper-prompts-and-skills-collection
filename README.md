@@ -1,4 +1,4 @@
-# claude-helper-prompts-and-skills-collection-
+# claude-helper-prompts-and-skills-collection
 
 A collection of prompts and skills for Claude.
 
